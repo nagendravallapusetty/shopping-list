@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>Shopping Items Copy Record Screen View Config Element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-26 13:04:34</sys_created_on>
+        <sys_id>c55e15f147c001100def690cd36d439d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping Items Copy Record Screen View Config Element</sys_name>
+        <sys_package display_value="Shopping List" source="x_463514_shopping">f90fc535478001100def690cd36d4300</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">f90fc535478001100def690cd36d4300</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_c55e15f147c001100def690cd36d439d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-26 13:04:34</sys_updated_on>
+        <view_config display_value="Shopping Items Copy Record Screen Card">c15e15f147c001100def690cd36d438e</view_config>
+        <view_template_slot display_value="text_03">ef5ef07841e35010f877183fc9b8be34</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
